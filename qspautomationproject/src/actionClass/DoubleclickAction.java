@@ -22,5 +22,6 @@ public class DoubleclickAction {
         act.doubleClick(target).perform();
 	}
 	}
+/////
 
 
